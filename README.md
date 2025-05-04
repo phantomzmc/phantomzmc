@@ -21,29 +21,13 @@
 
 ### 🎯 Quick Overview
 
-```typescript
-interface IProfile {
-    fullName: string;
-    role: string;
-    currentWork: string;
-    location: string;
-    workingOn: string[];
-    skills: {
-        languages: string[];
-        frontend: string[];
-        backend: string[];
-        mobile: string[];
-        database: string[];
-        devops: string[];
-    };
-};
-
-const kie: IProfile = {
-    fullName: "Thanathorn Yu",
+```javascript
+const kie = {
+    fullName: "Thannathorn Yuwasion",
     role: "Full-Stack Software Engineer",
     currentWork: "NocNoc",
     location: "Bangkok, Thailand",
-    workingOn: ["Data Engineering", "LLM", "Software Architecture"],
+    workingOn: ["Frontend", "Backend", "Data Engineering", "LLM", "Software Architecture"],
     skills: {
         languages: ["TypeScript", "Go", "Swift", "Python"],
         frontend: ["Next.js", "React", "TailwindCSS"],
@@ -55,12 +39,12 @@ const kie: IProfile = {
 };
 ```
 ### 💡 Fun Fact
-> 🔧 I once fixed a bug by accidentally deleting the file. It worked. I don’t ask questions.
-> 🚨 My Git commit messages range from “fix bug” to “please work this time 🙏”.
-> 🧙 I don’t always write tests, but when I do, I write them after deploying to production.
-> 💡 I use dark mode not because it saves my eyes… but because it hides my tears.
-> ⌛ I told myself I’d refactor that one function last year. It’s now legacy code.
-> 🦄 I believe tabs vs spaces is a personality test. (I’m tab gang, btw.)
+ - 🔧 I once fixed a bug by accidentally deleting the file. It worked. I don’t ask questions.
+ - 🚨 My Git commit messages range from “fix bug” to “please work this time 🙏”.
+ - 🧙 I don’t always write tests, but when I do, I write them after deploying to production.
+ - 💡 I use dark mode not because it saves my eyes… but because it hides my tears.
+ - ⌛ I told myself I’d refactor that one function last year. It’s now legacy code.
+ - 🦄 I believe tabs vs spaces is a personality test. (I’m tab gang, btw.)
 
 ---
 
@@ -80,31 +64,59 @@ const kie: IProfile = {
 
 <div align="center">
   
-  #### Frontend
-  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  
-  #### Backend
-  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  
-  #### Mobile
-  ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-  ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-  
-  #### Database & Cache
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-  
-  #### DevOps & Tools
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  <!-- Frontend & Backend Row -->
+  <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
+    <div>
+      <h3>Frontend</h3>
+      <div>
+        <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+      </div>
+    </div>
+    <div>
+      <h3>Backend</h3>
+      <div>
+        <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+        <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+      </div>
+    </div>
+  </div>
+
+  <!-- Mobile & Database Row -->
+  <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
+    <div>
+      <h3>Mobile</h3>
+      <div>
+        <img src="https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+        <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
+        <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+      </div>
+    </div>
+    <div>
+      <h3>Database & Cache</h3>
+      <div>
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL"/>
+        <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+        <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+      </div>
+    </div>
+  </div>
+
+  <!-- DevOps & Tools -->
+  <div>
+    <h3>DevOps & Tools</h3>
+    <div>
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+      <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+
+  </div>
+
 </div>
 
 ### 📊 GitHub Stats
