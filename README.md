@@ -66,6 +66,7 @@ const kie: IProfile = {
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot JPA Fetch Type ความต่างระหว่าง EAGER Loading VS LAZY Loading](https://medium.com/@kiikythunnathorn/spring-boot-jpa-fetch-type-%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87-eager-loading-vs-lazy-loading-95707c3ac158?source=rss-e767149550b------2)
 <!-- BLOG-POST-LIST:END -->
 
 🧠 Read more at [thunnathorn.dev](https://c923b7af.thunnathorn-dev.pages.dev)
