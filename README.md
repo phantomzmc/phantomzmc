@@ -1,26 +1,59 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D9596&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Kie;Full-Stack+Software+Engineer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   
-  <p>Experienced Software Engineer with a passion for scalable systems and clean code, based from Thailand 🇹🇭</p>
+  <!-- Banner Section -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2D9596&height=120&section=header"/>
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=phantomzmc&label=Profile%20views&color=2D9596&style=flat)](https://github.com/phantomzmc)
+  <!-- Animated Text -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2D9596&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Kie;Full-Stack+Engineer;System+Architect;iOS+Developer" alt="Typing SVG" />
+  
+  <!-- Brief Introduction -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Based_in-Thailand_🇹🇭-2D9596?style=for-the-badge" alt="Location"/>
+    <img src="https://img.shields.io/badge/Focus-Clean_Code-2D9596?style=for-the-badge" alt="Focus"/>
+    <img src="https://img.shields.io/badge/Passion-Scalable_Systems-2D9596?style=for-the-badge" alt="Passion"/>
+  </p>
+  
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=phantomzmc&style=for-the-badge&color=2D9596" alt="Profile Views"/>
 </div>
 
 ---
 
-### 🚀 About Me
+### 🎯 Quick Overview
 
-- 🔭 I’m currently working on [NocNoc](https://nocnoc.com/)
+```typescript
+interface IProfile {
+    fullName: string;
+    role: string;
+    currentWork: string;
+    location: string;
+    workingOn: string[];
+    skills: {
+        languages: string[];
+        frontend: string[];
+        backend: string[];
+        mobile: string[];
+        database: string[];
+        devops: string[];
+    };
+};
 
-- 🌱 I’m currently learning **Data Engineer, LLM and Software Architecture**
-
-- 👨‍💻 All of my projects are available at [https://c923b7af.thunnathorn-dev.pages.dev/](https://c923b7af.thunnathorn-dev.pages.dev/)
-
-- 📝 I regularly write articles on [https://c923b7af.thunnathorn-dev.pages.dev/](https://c923b7af.thunnathorn-dev.pages.dev/)
-
-- 💬 Ask me about **Next.JS, Go, NodeJS, iOS and all around full-stack**
-
-- 📫 How to reach me **sirkiiky@gmail.com**
+const kie: IProfile = {
+    fullName: "Thanathorn Yu",
+    role: "Full-Stack Software Engineer",
+    currentWork: "NocNoc",
+    location: "Bangkok, Thailand",
+    workingOn: ["Data Engineering", "LLM", "Software Architecture"],
+    skills: {
+        languages: ["TypeScript", "Go", "Swift", "Python"],
+        frontend: ["Next.js", "React", "TailwindCSS"],
+        backend: ["Go", "Node.js", "Express"],
+        mobile: ["iOS (Swift)", "React Native", "Flutter"],
+        database: ["PostgreSQL", "MongoDB", "Redis"],
+        devops: ["Docker", "Kubernetes", "AWS"]
+    }
+};
+```
 
 ### 🛠️ Tech Stack
 
