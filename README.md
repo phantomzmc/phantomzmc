@@ -54,6 +54,27 @@ const kie: IProfile = {
     }
 };
 ```
+### 💡 Fun Fact
+> 🔧 I once fixed a bug by accidentally deleting the file. It worked. I don’t ask questions.
+> 🚨 My Git commit messages range from “fix bug” to “please work this time 🙏”.
+> 🧙 I don’t always write tests, but when I do, I write them after deploying to production.
+> 💡 I use dark mode not because it saves my eyes… but because it hides my tears.
+> ⌛ I told myself I’d refactor that one function last year. It’s now legacy code.
+> 🦄 I believe tabs vs spaces is a personality test. (I’m tab gang, btw.)
+
+---
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+🧠 Read more at [thunnathorn.dev](https://c923b7af.thunnathorn-dev.pages.dev)
+---
+### 📚 Education
+- 🎓 **Bachelor of Science and Information Technology**
+  - **The Far Eastern University**
+  - 2016 - 2018
+  - GPA: 3.63/4.00
 
 ### 🛠️ Tech Stack
 
