@@ -4,7 +4,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2D9596&height=120&section=header"/>
 
   <!-- <img width="20%" src="/public/EmojiMovie745355611-ezgif.com-video-to-gif-converter.gif" alt="Profile Animation" /> -->
-  
+
   <!-- Animated Text -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2D9596&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Kie;Full-Stack+Engineer;System+Architect;iOS+Developer" alt="Typing SVG" />
   
@@ -66,7 +66,7 @@ const kie = {
 - [Spring Boot JPA Fetch Type ความต่างระหว่าง EAGER Loading VS LAZY Loading](https://medium.com/@kiikythunnathorn/spring-boot-jpa-fetch-type-%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87-eager-loading-vs-lazy-loading-95707c3ac158?source=rss-e767149550b------2)
 <!-- BLOG-POST-LIST:END -->
 
-## 🧠 Read more at [thunnathorn.dev](https://c923b7af.thunnathorn-dev.pages.dev)
+## 🧠 Read more at [thunnathorn.dev](https://thunnathorn-dev.pages.dev)
 
 ### 📚 Education
 
