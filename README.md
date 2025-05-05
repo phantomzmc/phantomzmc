@@ -2,6 +2,8 @@
   
   <!-- Banner Section -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2D9596&height=120&section=header"/>
+
+  <!-- <img width="20%" src="/public/EmojiMovie745355611-ezgif.com-video-to-gif-converter.gif" alt="Profile Animation" /> -->
   
   <!-- Animated Text -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2D9596&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Kie;Full-Stack+Engineer;System+Architect;iOS+Developer" alt="Typing SVG" />
@@ -23,40 +25,51 @@
 
 ```javascript
 const kie = {
-    fullName: "Thannathorn Yuwasion",
-    role: "Full-Stack Software Engineer",
-    currentWork: "NocNoc",
-    location: "Bangkok, Thailand",
-    workingOn: ["Frontend", "Backend", "Data Engineering", "LLM", "Software Architecture"],
-    skills: {
-        languages: ["TypeScript", "Go", "Swift", "Python"],
-        frontend: ["Next.js", "React", "TailwindCSS"],
-        backend: ["Go", "Node.js", "Express"],
-        mobile: ["iOS (Swift)", "React Native", "Flutter"],
-        database: ["PostgreSQL", "MongoDB", "Redis"],
-        devops: ["Docker", "Kubernetes", "AWS"]
-    }
+  fullName: "Thannathorn Yuwasion",
+  role: "Full-Stack Software Engineer",
+  currentWork: "NocNoc",
+  location: "Bangkok, Thailand",
+  workingOn: [
+    "Frontend",
+    "Backend",
+    "Data Engineering",
+    "LLM",
+    "Software Architecture",
+  ],
+  skills: {
+    languages: ["TypeScript", "Go", "Swift", "Python"],
+    frontend: ["Next.js", "React", "TailwindCSS"],
+    backend: ["Go", "Node.js", "Express"],
+    mobile: ["iOS (Swift)", "React Native", "Flutter"],
+    database: ["PostgreSQL", "MongoDB", "Redis"],
+    devops: ["Docker", "Kubernetes", "AWS"],
+  },
 };
 ```
+
 ### 💡 Fun Fact
- - 🔧 I once fixed a bug by accidentally deleting the file. It worked. I don’t ask questions.
- - 🚨 My Git commit messages range from “fix bug” to “please work this time 🙏”.
- - 🧙 I don’t always write tests, but when I do, I write them after deploying to production.
- - 💡 I use dark mode not because it saves my eyes… but because it hides my tears.
- - ⌛ I told myself I’d refactor that one function last year. It’s now legacy code.
- - 🦄 I believe tabs vs spaces is a personality test. (I’m tab gang, btw.)
+
+- 🔧 I once fixed a bug by accidentally deleting the file. It worked. I don’t ask questions.
+- 🚨 My Git commit messages range from “fix bug” to “please work this time 🙏”.
+- 🧙 I don’t always write tests, but when I do, I write them after deploying to production.
+- 💡 I use dark mode not because it saves my eyes… but because it hides my tears.
+- ⌛ I told myself I’d refactor that one function last year. It’s now legacy code.
+- 🦄 I believe tabs vs spaces is a personality test. (I’m tab gang, btw.)
 
 ---
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [Dispatcher servlet คืออะไร ?](https://medium.com/@kiikythunnathorn/dispatcher-servlet-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-64131c02b867?source=rss-e767149550b------2)
 - [Spring Boot JPA Fetch Type ความต่างระหว่าง EAGER Loading VS LAZY Loading](https://medium.com/@kiikythunnathorn/spring-boot-jpa-fetch-type-%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87-eager-loading-vs-lazy-loading-95707c3ac158?source=rss-e767149550b------2)
 <!-- BLOG-POST-LIST:END -->
 
-🧠 Read more at [thunnathorn.dev](https://c923b7af.thunnathorn-dev.pages.dev)
----
+## 🧠 Read more at [thunnathorn.dev](https://c923b7af.thunnathorn-dev.pages.dev)
+
 ### 📚 Education
+
 - 🎓 **Bachelor of Science and Information Technology**
   - **The Far Eastern University**
   - 2016 - 2018
@@ -143,4 +156,3 @@ const kie = {
 <div align="center">
   <a href="https://www.buymeacoffee.com/phantomzmc"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" /></a>
 </div>
-
